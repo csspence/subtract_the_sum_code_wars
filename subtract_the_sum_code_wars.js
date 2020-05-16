@@ -6,6 +6,9 @@ Subtract the sum from n, and it is your new n.
 If the new n is in the list below return the associated fruit, otherwise return back to task 1.
 */
 
+let fruits = []
+
 function SubtractSum(n){
-  return // fruit name like "apple"
+
+  return 'apple';
 }
